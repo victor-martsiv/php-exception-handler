@@ -11,10 +11,6 @@ use Throwable;
 use function get_class;
 use function in_array;
 
-/**
- * Class Handler
- * @package Knight\Exceptions
- */
 class Handler
 {
     /**
