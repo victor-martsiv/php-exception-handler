@@ -1,0 +1,19 @@
+{
+  "name" : "victor-martsiv/exception-handler",
+  "description" : "Very simple and stupid router",
+  "type" : "project",
+  "authors" : [
+    {
+      "name" : "Viktor MARTSIV",
+      "email" : "martsivwork@gmail.com"
+    }
+  ],
+  "autoload" : {
+    "psr-4" : {
+      "KnightWithKnife\\Exceptions\\" : "./src"
+    }
+  },
+  "require" : {
+    "php" : ">=8.1"
+  }
+}
